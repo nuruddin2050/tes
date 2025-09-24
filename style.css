@@ -1,0 +1,29 @@
+body {
+    font-family: Verdana, sans-serif;
+    background-color: #f9f7f1;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #6a4c93;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+nav {
+    text-align: center;
+    margin: 15px 0;
+}
+
+nav a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #6a4c93;
+    font-weight: bold;
+}
+
+section {
+    padding: 20px;
+}
